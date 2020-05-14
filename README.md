@@ -40,17 +40,44 @@ With the updated grades we see a negative change, of one percent, in all three p
 -	**High- and Low-Performing Schools:**
 
   The new top five schools are:
-  1-	Cabrera High School
-  2-	Griffin High School
-  3-	Wilson High School
-  4-	Pena High School
-  5-	Wright High School
+  
+  1. Cabrera High School
+  
+  2. Griffin High School
+  
+  3. Wilson High School
+  
+  4. Pena High School
+  
+  5. Wright High School
 
   Thomas School fell to number eight and the bottom five schools were not affected. Following are the five bottom schools:
 
   1.	Rodrigues High School
+  
   2.	Figueroa High School
+  
   3.	Huang High School
+  
   4.	Hernandez High School
+  
   5.	Johnson High School
+  
+-	**Math and Reading Scores by Grade:**
+
+Previously Thomas High School was fifth highest school for its % passing reading (with 84%) for 9th grade and number three for its % passing math (with 84%) for 9th grade. With the change it is out of the ranking for 9th grade with no scores to report. The rest of the scores by grade are not impacted.
+
+-	**Scores by School Spending:**
+
+Since Thomas High School belongs to the spending range (per student) of $630-644, we only see a change for this bin’s percentages. The percentages passing math, reading, and overall have dropped respectively from 73% to 67%, 84% to 77% and 63% to 56%.
+ 
+-	**Scores by School Size:**
+
+Thomas High School categorizes as a Medium sized school, hence with a change in its scores we see a change in the results of Medium sized schools. The percentages for passing math, reading, and overall have dropped from 94% to 88%, 97% to 91% and 91% to 85% respectively.
+ 
+-	**Scores by School Type:** 
+
+Thomas High School is a Charter school and the change of its score shows a change in the result of Charter schools. The percentage passing math, reading and overall have respectively dropped from 94% to 90%, 97% to 93% and 90% to 87%.
+
+____________________________________________________________________________________________________________________________
 
