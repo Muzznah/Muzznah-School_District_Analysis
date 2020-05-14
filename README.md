@@ -21,7 +21,9 @@ We were tasked to do an analysis on performance of 15 schools. Following is the 
      o	School performance based on the type of school
 
 ## Resources
-Data Source: Schools_complete.csv, student_complete.csv
+
+Data Source: schools_complete.csv, student_complete.csv
+
 Software: Python 3.7.7, Jupytor Notebook.
 
 ## Challenge Summary
@@ -44,7 +46,7 @@ With the updated grades we see a negative change, of one percent, in all three p
   4-	Pena High School
   5-	Wright High School
 
-    The new bottom five schools are same as before as Thomas School fell to number eight and the bottom five schools were not affected.     Following are the five bottom schools:
+  Thomas School fell to number eight and the bottom five schools were not affected. Following are the five bottom schools:
 
   1.	Rodrigues High School
   2.	Figueroa High School
